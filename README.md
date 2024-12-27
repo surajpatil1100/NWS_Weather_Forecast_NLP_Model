@@ -26,3 +26,7 @@ You can install the required libraries using pip:
 
 ```bash
 pip install flask requests pandas nltk spacy
+
+git clone https://github.com/your-repo/weather-forecast-app.git
+cd weather-forecast-app
+
